@@ -1,4 +1,5 @@
-/* package SearchString; */
+
+package Java.curso;
 public class SearchString{
   public static void main(String[] args) {
     String searchMe = "Victor Manuel Perez, Vittorio Giuseppe Perez, Jean Pier Andreé Perez";

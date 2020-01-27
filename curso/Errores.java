@@ -1,3 +1,4 @@
+package Java.curso;
 public class Errores{
     public static void main(String args[]){
         int num_uno = 5 ;

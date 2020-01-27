@@ -1,3 +1,4 @@
+package Java.curso;
 import java.util.Scanner;
 
 public class VowelCounter{
